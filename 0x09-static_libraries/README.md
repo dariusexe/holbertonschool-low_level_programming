@@ -1,4 +1,4 @@
 # 0x09. C - Static libraries
 
-## Requeriments
+## Requirements
 gcc 4.8.4 using the flags -Wall -Werror -Wextra and -pedantic
